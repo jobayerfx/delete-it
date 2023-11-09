@@ -36,7 +36,6 @@ frontend/*.jar
 
 # Maven
 frontend/target/
-frontend/dist/
 
 # JetBrains IDE
 frontend/.idea/
